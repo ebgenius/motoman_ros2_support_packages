@@ -25,7 +25,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://motoman_es_support/meshes/es/visual/link_1.stl"/>
+          <mesh filename="package://motoman_es_support/meshes/es/visual/link_s.stl"/>
         </geometry>
         <material name="blue"/>
       </visual>
@@ -41,7 +41,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://motoman_es_support/meshes/es/visual/link_2.stl"/>
+          <mesh filename="package://motoman_es_support/meshes/es/visual/link_l.stl"/>
         </geometry>
         <material name="blue"/>
       </visual>
@@ -89,7 +89,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://motoman_es_support/meshes/es/visual/link_5.stl"/>
+          <mesh filename="package://motoman_es_support/meshes/es/visual/link_b.stl"/>
         </geometry>
         <material name="blue"/>
       </visual>
@@ -105,7 +105,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://motoman_es_support/meshes/es/visual/link_6.stl"/>
+          <mesh filename="package://motoman_es_support/meshes/es/visual/link_t.stl"/>
         </geometry>
         <material name="black">
           <color rgba="0 0 0 1"/>
